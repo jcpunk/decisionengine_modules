@@ -1,0 +1,13 @@
+mock >= 4.0.3
+pytest >= 6.2.2
+pytest-cov >= 2.11.1
+tabulate
+toml >= 0.10.2
+pyyaml
+
+# for doc
+sphinx_rtd_theme >= 0.5.1
+
+# for packages
+setuptools-scm >= 5.0.1
+setuptools-scm[toml] >= 5.0.1

@@ -1,0 +1,13 @@
+boto
+boto3
+google_auth
+google-api-python-client
+gcs-oauth2-boto-plugin
+packaging
+pandas >= 1.1.5
+six >= 1.13.0
+htcondor >= 8.9.11
+
+# From a non-standard location
+--extra-index-url https://test.pypi.org/simple --no-deps
+bill-calculator-hep-mapsacosta >= 0.0.9
